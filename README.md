@@ -2,7 +2,7 @@
 
 Meu nome é Kleber de Almeida Bitencourtt
 
-Graduado em Processamento de Dados
+Graduado em Técnoligia em Processamento de Dados
 
 Pós Graduado em Liderança e Gestão de Pessoas
 
@@ -10,11 +10,15 @@ Técnico em Eletrotécnica
 
 - Sou professor da rede pública do Paraná
 - Sou professor da rede federal IFPR-PR
-- Leciono as diciplinas do eixo de Informática: Pensamento Computacional, Programação, Programação Front-end, Estrutura de Dados, Introdução a Informática, Informática Aplicada, Sistemas Operacionais, Arquitetura e Manutenção de Computadores e na Gradução Computação Gráfica e Sistemas Distribúidos
+- Leciono as diciplinas do eixo de Informática: Pensamento Computacional, Programação, Programação Front-end, Estrutura de Dados, Introdução a Informática, Informática Aplicada, Sistemas Operacionais, Arquitetura e Manutenção de Computadores e na Gradução Computação Gráfica e Sistemas Distribuídos
 
-Contato 📫
+Contato
 
-kleberivp@gmail.com
+![kleberivp@gmail.com](https://user-images.githubusercontent.com/127142110/236271193-63d1d42c-6c85-4b9f-8ac6-040f4ddb5af4.png)
+![@kleber_ivp](https://user-images.githubusercontent.com/127142110/236271570-678fee2b-32ce-4928-ab0e-57351a333631.png)
+![https://www.linkedin.com/in/kleber-almeida-bitencourtt-081213211](https://user-images.githubusercontent.com/127142110/236271953-6ad38fec-8c4c-4725-ac0a-1420ebd23a58.png)
+
+
 
 
 
