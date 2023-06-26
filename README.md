@@ -2,7 +2,7 @@
 
 Meu nome é Kleber de Almeida Bitencourtt
 
-Graduado em Técnoligia em Processamento de Dados
+Graduado em Técnologia em Processamento de Dados
 
 Pós Graduado em Liderança e Gestão de Pessoas
 
