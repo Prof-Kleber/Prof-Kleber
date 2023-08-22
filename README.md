@@ -2,11 +2,11 @@
 
 Meu nome é Kleber de Almeida Bitencourtt
 
-Graduado em Técnologia em Processamento de Dados
+Pós Graduado em Liderança e Gestão de Pessoas 👨🏻‍🎓
 
-Pós Graduado em Liderança e Gestão de Pessoas
+Graduado em Técnologia em Processamento de Dados 👨🏻‍🎓
 
-Técnico em Eletrotécnica
+Técnico em Eletrotécnica👨🏻‍🎓
 
 - Sou professor da rede pública do Paraná
 - Sou professor da rede federal IFPR-PR
