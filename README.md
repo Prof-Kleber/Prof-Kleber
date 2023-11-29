@@ -18,6 +18,14 @@ Contato
 ![@kleber_ivp](https://user-images.githubusercontent.com/127142110/236271570-678fee2b-32ce-4928-ab0e-57351a333631.png)
 ![https://www.linkedin.com/in/kleber-almeida-bitencourtt-081213211](https://user-images.githubusercontent.com/127142110/236271953-6ad38fec-8c4c-4725-ac0a-1420ebd23a58.png)
 
+Ferramentas
+
+![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
 ![underdog-on-my-way](https://user-images.githubusercontent.com/127142110/236854190-ecde2b5f-44d8-4053-93e1-ebae85c5afb3.gif)
 
 
