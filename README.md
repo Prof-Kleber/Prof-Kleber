@@ -27,7 +27,7 @@ Ferramentas
 ![](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 ![underdog-on-my-way](https://user-images.githubusercontent.com/127142110/236854190-ecde2b5f-44d8-4053-93e1-ebae85c5afb3.gif)
-![teste](http://www.nick.com/spongebob-squarepants).
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Rotating_earth_%28large%29.gif/300px-Rotating_earth_%28large%29.gif).
 
 
 
