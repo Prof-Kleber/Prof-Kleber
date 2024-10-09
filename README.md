@@ -28,7 +28,7 @@ Ferramentas
 
 ![underdog-on-my-way](https://user-images.githubusercontent.com/127142110/236854190-ecde2b5f-44d8-4053-93e1-ebae85c5afb3.gif)
 
-![image](https://github.com/user-attachments/assets/d71bff29-7c38-4c77-b658-31e0b0a35032)
+
 
 
 
