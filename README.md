@@ -1,4 +1,4 @@
-### Olá Bem Vindo ao Meu Perfil 👋 
+### Olá Bem Vindo ao Meu Perfil 👋 :grinning:
 
 Meu nome é Kleber de Almeida Bitencourtt
 
